@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    border: 5px solid cornflowerblue;
+    color: blue;
+    background-color: beige;
+}
+h2 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+h3{
+    color: red;
+    font-family: roboto;
+}
+form{
+    text-align: center;
+}
+p{
+    color: white;
+  }h1, p{
+    border: 1px solid border white
+}
+
+/* Selecting styles to be applied to several classes */
+.FirstItem, .LastItem {
+   font-size: 1.2em;
+}
+
+/* Using multiple Kinds of selectors */
+h3, .red, #redElement {
+   color: red
+}
+H1h1 + p {
+    
+    
+
+    
+}   
+body{
+    background-image: url(https://www.freecodecamp.org/news/content/images/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg);
+    color:white;
+    background-color: white;
+    
+
+}
+
+    nav{
+        text-align: center;
+        word-spacing: 130px;
+        margin: 15px;
+        color: aqua;
+        transform: scale(2);
+    }
+    
+  
